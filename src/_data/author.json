@@ -1,8 +1,14 @@
 {
-    "name": "Dafiul Haq",
-    "homepage": "https://github.com/dafiulh",
-    "bio": "Interested in Technology",
-    "avatar": "https://i.imgur.com/tse467Z.jpg",
-    "email": "your_email@example.com",
-    "phone": "+12345654321"
+  "name": "Jairo Lachira",
+  "homepage": "https://github.com/j4iro",
+  "bio": "Desarrollador de Software",
+  "resume": "Desarrollador backend en constanste aprendizaje, me gusta resolver problemas con código y compartir conocimientos 💻",
+  "avatar": "https://i.imgur.com/tse467Z.jpg",
+  "email": "jlachirap.8@gmail.com",
+  "phone": "",
+  "socials": {
+    "twitter": "https://twitter.com/intent/user?screen_name=lachiraDev",
+    "linkedin": "https://www.linkedin.com/in/jairo-lachira-peralta-613a13179/",
+    "github": "https://github.com/j4iro"
+  }
 }

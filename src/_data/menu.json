@@ -1,15 +1,19 @@
 [
-    {
-        "label": "About",
-        "url": "/about"
-    },
-    {
-        "label": "Tag List",
-        "url": "/tags"
-    },
-    {
-        "label": "GitHub",
-        "url": "https://github.com/dafiulh/vredeburg",
-        "newTab": true
-    }
+  {
+    "label": "About",
+    "url": "/about"
+  },
+  {
+    "label": "Projects",
+    "url": "/projects"
+  },
+  {
+    "label": "Tag List",
+    "url": "/tags"
+  },
+  {
+    "label": "GitHub",
+    "url": "https://github.com/dafiulh/vredeburg",
+    "newTab": true
+  }
 ]
