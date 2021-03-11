@@ -4,16 +4,12 @@
     "url": "/about"
   },
   {
-    "label": "Projects",
-    "url": "/projects"
-  },
-  {
     "label": "Tag List",
     "url": "/tags"
   },
   {
     "label": "GitHub",
-    "url": "https://github.com/dafiulh/vredeburg",
+    "url": "https://github.com/j4iro",
     "newTab": true
   }
 ]
