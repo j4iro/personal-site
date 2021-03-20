@@ -10,9 +10,9 @@ permalink: "{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
 {% if author.resume %}
 <div class="my-10 bg-gray-200_">
   <p
-    class="text-4xl bg-gray-800 text-white p-2 max-w-2xl bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
+    class="text-4xl bg-gray-800 text-white p-2 max-w-3xl bg-gradient-to-r from-purple-400 via-pink-500 to-red-500"
   >
-    Personal site of <a href="./">Jairo Lachira</a>
+    Sitio personal y portafolio de <a href="./">Jairo Lachira</a>
   </p>
   <p class="mt-3 text-2xl py-2">
     {{ author.resume }}
@@ -20,8 +20,22 @@ permalink: "{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
 </div>
 {% endif %}
 
-<div class="mt-20">
-  <h4 class="font-extrabold text-xl underline">Projectos Destacados</h4>
+<!-- <div>
+  <h3
+    class="font-extrabold text-xl underline"
+    style="text-underline-offset: 5px"
+  >
+    🛠️ Skills
+  </h3>
+</div> -->
+
+<div class="mt-20 mb-3">
+  <h3
+    class="font-extrabold text-xl underline"
+    style="text-underline-offset: 5px"
+  >
+    🎉 Proyectos Destacados
+  </h3>
 </div>
 
 <div class="flex flex-wrap -mx-2">{% include "partials/post-grid.njk" %}</div>

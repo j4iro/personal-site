@@ -1,11 +1,11 @@
 [
   {
-    "label": "About",
-    "url": "/about"
+    "label": "Skills",
+    "url": "/skills"
   },
   {
-    "label": "Tag List",
-    "url": "/tags"
+    "label": "About",
+    "url": "/about"
   },
   {
     "label": "GitHub",

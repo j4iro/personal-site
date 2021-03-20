@@ -30,6 +30,7 @@
       <p class="text-gray-800">
         {% if post.data.description %}
         {{ post.data.description }}
+        {{ striptags }}
         {% else %}
         {{ post.templateContent | striptags | truncate(90, true) }}
         {% endif %}
