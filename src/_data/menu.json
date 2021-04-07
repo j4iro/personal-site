@@ -1,9 +1,5 @@
 [
   {
-    "label": "Habilidades",
-    "url": "/skills"
-  },
-  {
     "label": "Acerca de",
     "url": "/about"
   },

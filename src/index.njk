@@ -16,16 +16,30 @@ permalink: "{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
   </p>
   <p class="mt-3 text-2xl py-2">
     {{ author.resume }}
-    <a
-      href="./skills"
-      class="text-2xl font-extrabold underline"
-      style="text-underline-offset: 5px"
-    >
-      conocimientos 🧠
-    </a>
   </p>
 </div>
 {% endif %}
+
+<!-- Skills -->
+<div class="mt-12 mb-4">
+  <h3
+    class="font-extrabold text-xl underline"
+    style="text-underline-offset: 5px"
+  >
+    🧠 Habilidades:
+  </h3>
+</div>
+
+<div class="flex justify-start flex-wrap">
+  {% for skill in author.skills %}
+  <span
+    class="inline-block mx-1 mb-3 px-4 py-2 bg-gray-200 text-gray-700 font-medium rounded-full shadow-md hover:shadow-lg"
+  >
+    {{ skill }}
+  </span>
+  {% endfor %}
+</div>
+<!-- Skills -->
 
 <div class="mt-12 mb-3">
   <h3
