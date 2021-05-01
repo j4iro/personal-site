@@ -4,6 +4,10 @@
     "url": "/about"
   },
   {
+    "label": "Tags",
+    "url": "/tags"
+  },
+  {
     "label": "GitHub",
     "url": "https://github.com/j4iro",
     "newTab": true

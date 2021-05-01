@@ -11,7 +11,26 @@
     "linkedin": "https://www.linkedin.com/in/jairo-lachira-peralta-613a13179/",
     "github": "https://github.com/j4iro"
   },
-  "skills":[
-    "Node.js 👨‍💻","MongoDB 🍃","Mysql 🐬","Express.js 👨‍💻", "Dialogflow 🤖", "Php 👨‍💻", "Rest Api 🕸️","Ubuntu 🐧"
+  "skills": [
+    "Node.js 👨‍💻",
+    "MongoDB 🍃",
+    "Mysql 🐬",
+    "Express.js 👨‍💻",
+    "Dialogflow 🤖",
+    "Php 👨‍💻",
+    "Rest Api 🕸️",
+    "Ubuntu 🐧"
+  ],
+  "projects": [
+    {
+      "title": "Api Money Manager",
+      "date": "Marzo del 2021",
+      "thumb": "money-manager.png",
+      "main_link": "https://github.com/j4iro/money-manager",
+      "github": "https://github.com/j4iro/money-manager",
+      "-postman": "https://github.com/j4iro/money-manager",
+      "description": "Api hecha en express.js para una aplicación que administrará tus finanzas personales (En desarrollo)",
+      "tags": ["Express JS", "Node.js", "MongoDB"]
+    }
   ]
 }
