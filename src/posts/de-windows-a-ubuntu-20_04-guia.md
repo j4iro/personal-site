@@ -54,7 +54,7 @@ Si lo usas con mucha frecuencia quizá te interese que se inicie junto con el si
 
 ![Zsh](/assets/img/_terminal.png "Zsh")
 
-Zsh es una shell alternativa a la que viene por defecto en ubuntu y con ayuda de [oh-my-zsh](https://ohmyz.sh/) puedes agregarle [temas](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) y [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) que harán tu que
+Zsh es una shell alternativa a la que viene por defecto en ubuntu y con ayuda de [oh-my-zsh](https://ohmyz.sh/) puedes agregarle [temas](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) y [plugins](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins) que harán que tu desarrollo sea más agradable.
 
 Para instalar **zsh** ejecuta:
 
