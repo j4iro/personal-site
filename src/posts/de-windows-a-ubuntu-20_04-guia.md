@@ -5,6 +5,7 @@ title: "De Windows a Ubuntu 20.04 ¿Por dónde empezar?"
 date: 2021-05-01T18:00
 thumb: "ubuntu.png"
 description: "Guía de ubuntu para principiantes"
+lang: "Spanish"
 tags:
   - Ubuntu
   - Linux

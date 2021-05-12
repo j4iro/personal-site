@@ -1,8 +1,9 @@
 {
   "name": "Jairo Lachira",
   "homepage": "https://github.com/j4iro",
-  "bio": "Desarrollador de Software",
-  "resume": "Desarrollador backend 👨‍💻 en constanste aprendizaje, me gusta resolver problemas con código y compartir conocimientos 🧠",
+  "bio": "Software Developer",
+  "_resume": "Desarrollador backend 👨‍💻 en constanste aprendizaje, me gusta resolver problemas con código y compartir conocimientos 🧠",
+  "resume": "Software Developer with 2 years of experience 👨‍💻, constantly learning, i like to solve problems with code and share knowledge 🧠",
   "avatar": "https://i.imgur.com/tse467Z.jpg",
   "email": "jlachirap.8@gmail.com",
   "phone": "",
@@ -23,13 +24,14 @@
   ],
   "projects": [
     {
-      "title": "Api Money Manager",
-      "date": "Marzo del 2021",
+      "title": "Money Manager Api",
+      "date": "March 2021",
       "thumb": "money-manager.png",
       "main_link": "https://github.com/j4iro/money-manager",
       "github": "https://github.com/j4iro/money-manager",
       "-postman": "https://github.com/j4iro/money-manager",
-      "description": "Api hecha en express.js para una aplicación que administrará tus finanzas personales (En desarrollo)",
+      "-description": "Api hecha en express.js para una aplicación que administrará tus finanzas personales (En desarrollo)",
+      "description": "Api created using express.js for an application that will management your personal finances (In development)",
       "tags": ["Express JS", "Node.js", "MongoDB"]
     }
   ]
