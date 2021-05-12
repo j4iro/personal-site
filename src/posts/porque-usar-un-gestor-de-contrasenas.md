@@ -1,6 +1,6 @@
 ---
 title: "¿Por qué deberías usar un gestor de contraseñas?"
-date: 2021-05-03T22:00
+date: 2021-05-11T23:00
 thumb: "password-manager.jpg"
 description: "No necesitas ni deberías recordar tus contraseñas, está aplicación se encargará de todo"
 lang: "Spanish"
