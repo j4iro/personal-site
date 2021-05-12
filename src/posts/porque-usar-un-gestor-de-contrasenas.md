@@ -5,7 +5,6 @@ thumb: "password-manager.jpg"
 description: "No necesitas ni deberías recordar tus contraseñas, está aplicación se encargará de todo"
 lang: "Spanish"
 tags:
-  - Aplicaciones
   - Productividad
   - Spanish
 ---
