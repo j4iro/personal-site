@@ -8,9 +8,6 @@ description: "Guía de ubuntu para principiantes"
 lang: "Spanish"
 tags:
   - Ubuntu
-  - Linux
-  - Programadores
-  - Aplicaciones
   - Spanish
 ---
 
