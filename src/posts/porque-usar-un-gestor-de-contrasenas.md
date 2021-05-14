@@ -2,15 +2,12 @@
 title: "¿Por qué deberías usar un gestor de contraseñas?"
 date: 2021-05-11T23:00
 thumb: "password-manager.jpg"
+metaimg: "https://i.ibb.co/gRY0ZXF/password-manager.jpg"
 description: "No necesitas ni deberías recordar tus contraseñas, está aplicación se encargará de todo"
 lang: "Spanish"
 tags:
   - Productividad
   - Spanish
-
-metadata:
-  title: Some other title
-  desc: Some other description
 ---
 
 Memorizar nuestras contraseñas es un problema, nos quita tiempo y reduce nuestra productividad 📉, almacenarlas en un archivo que consideramos seguro no es la mejor solución y definitivamente usar contraseñas muy fáciles de recordar es un riesgo muy alto a correr.
