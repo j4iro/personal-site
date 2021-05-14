@@ -71,9 +71,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 Los siguientes plugins te pueden ayudar a ser más rápido y productivo mientras te mueves por la terminal:
 
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-  te brinda sugerencias al momento de escribir los comandos basados en tu historial de uso.
+  te brinda sugerencias al momento de escribir los comandos basados en tu historial de uso. Seleccione la sugerencia con la combinación `ctrl + ➝` .
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-  Este paquete proporciona resaltado de sintaxis para el shell zsh, esto ayuda a revisar los comandos antes de ejecutarlos, especialmente para detectar errores de sintaxis. Seleccione la sugerencia con la combinación `ctrl + ➝` .
+  Este paquete proporciona resaltado de sintaxis para el shell zsh, esto ayuda a revisar los comandos antes de ejecutarlos, especialmente para detectar errores de sintaxis.
 
 <a name="font-manager"></a>
 
@@ -91,7 +91,6 @@ sudo apt install font-manager
 
 Y después de esto podrá encontrarla dentro de sus aplicaciones.
 
-<!--
 ## Conclusión
 
-Empezar a usar ubuntu para desarrollar aplicaciones puede ser más agragable con las aplicaciones adecuadas  -->
+Empezar a usar ubuntu para desarrollo de software puede ser más agragable con las aplicaciones adecuadas, ahora ya conocer unas de ellas.
