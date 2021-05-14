@@ -27,13 +27,13 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
     <meta property="og:url" content="https://j4iro.com" />
     <meta property="og:title" content="{{ metaTitle }}" />
     <meta property="og:description" content="{{ metaDesc }}" />
-    <meta property="og:image" content=".{{thumb}}" />
+    <meta property="og:image" content="{{thumb}}" />
 
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://j4iro.com" />
     <meta property="twitter:title" content="{{ metaTitle }}" />
     <meta property="twitter:description" content="{{ metaDesc }}" />
-    <meta property="twitter:image" content=".{{thumb}}" />
+    <meta property="twitter:image" content="{{thumb}}" />
     <!-- Metas -->
 
     <link rel="canonical" href="{{ site.url | url }}{{ page.url }}" />
