@@ -99,11 +99,11 @@ permalink: "{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
           {{ project.description }}
         </p>
         <div class="mt-2">
+          {% if project.postman %}
+            <a href="{{project.postman}}" class="underline text-blue-800 mr-2" target="_blank">Postman Docs</a>
+          {% endif %}
           {% if project.github %}
             <a href="{{project.github}}" class="underline text-blue-800	mr-2" target="_blank">Github</a>
-          {% endif %}
-          {% if project.postman %}
-            <a href="{{project.postman}}" class="underline text-blue-800 mr-2" target="_blank">Postman</a>
           {% endif %}
         </div>
       </div>
