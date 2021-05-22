@@ -24,21 +24,21 @@
   ],
   "projects": [
     {
-      "title": "Money Manager Api",
+      "title": "Money Manager Api 💰",
       "date": "March 2021",
       "thumb": "money-manager.png",
       "main_link": "https://github.com/j4iro/money-manager",
       "github": "https://github.com/j4iro/money-manager",
       "postman": "https://documenter.getpostman.com/view/7899354/TzRX7QXZ",
-      "description": "Api created using express.js for an application that will management your personal finances (In development)",
+      "description": "Api created using express.js for an application that will management your personal finances 🤑 (In development)",
       "tags": ["Express JS", "Node.js", "MongoDB"]
     },
     {
-      "title": "Paqui",
+      "title": "Paqui 🤖",
       "date": "Nov 2020",
       "thumb": "project_paqui.png",
       "main_link": "https://pagaloaqui.cl/santander",
-      "description": "Chatbot creado en la empresa Onbotgo, su función es atender y responder a las preguntas frecuentas de los usuarios",
+      "description": "Paqui is an chatbot 🤖 created in the company Onbotgo, she is trained for answer the FAQ of users and more.",
       "tags": ["Dialogflow", "Node.js", "MongoDB"]
     }
   ]
