@@ -38,8 +38,19 @@
       "date": "Nov 2020",
       "thumb": "project_paqui.png",
       "main_link": "https://pagaloaqui.cl/santander",
-      "description": "Paqui is an chatbot 🤖 created in the company Onbotgo, she is trained for answer the FAQ of users and more.",
+      "website": "https://pagaloaqui.cl/santander",
+      "description": "Paqui is an chatbot 🤖 created in the company Onbotgo, she is trained for answer the FAQ of users, show list and more.",
       "tags": ["Dialogflow", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "Platzi Exchange 📊",
+      "date": "Oct 2020",
+      "thumb": "project_exchange.png",
+      "main_link": "https://cripto-j4iro.netlify.app/",
+      "website": "https://cripto-j4iro.netlify.app/",
+      "github": "https://github.com/j4iro/platzi-exchange",
+      "description": "This project is a result of the vuejs's course at Platzi, this app use the coincap's api 🕸️ for show the data 📊",
+      "tags": ["Vue", "Axios", "Tailwindcss"]
     }
   ]
 }
