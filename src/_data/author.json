@@ -49,7 +49,7 @@
       "main_link": "https://cripto-j4iro.netlify.app/",
       "website": "https://cripto-j4iro.netlify.app/",
       "github": "https://github.com/j4iro/platzi-exchange",
-      "description": "This project is a result of the vuejs's course at Platzi, this app use the coincap's api 🕸️ for show the data 📊",
+      "description": "This project is a result of the vuejs's course at Platzi, this app use the coincap's api 🕸️ for showing the data 📊",
       "tags": ["Vue", "Axios", "Tailwindcss"]
     }
   ]
