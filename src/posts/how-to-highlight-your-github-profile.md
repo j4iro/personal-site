@@ -45,7 +45,7 @@ this whill show something like that 👇:
 
 Don't forget that you can pinned your repositories in this section, you can pinned up to 6, this section will do more attractive you github profile.
 
-Finally, here are some github profiles for you inspired:
+Finally, here are some github profiles for you to get inspired:
 
 - [@timbergus](https://github.com/timbergus)
 - [@JCMais](https://github.com/JCMais)
