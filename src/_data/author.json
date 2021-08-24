@@ -25,6 +25,34 @@
   ],
   "projects": [
     {
+      "title": "@capuli_bot 🐸",
+      "date": "August 2021",
+      "thumb": "capuli_bot.png",
+      "main_link": "https://t.me/capuli_bot",
+      "telegram_chat": "https://t.me/capuli_bot",
+      "github": "https://github.com/j4iro/bot-telegram",
+      "description": "Capuli is a telegram bot for the #dataton2021 and his function is show you the vaccination places closer to you location in Perú 🇵🇪",
+      "team": [
+        {
+          "nick": "@EsmithAS",
+          "url": "https://github.com/EsmithAS"
+        },
+        {
+          "nick": "@noemiRE",
+          "url": "https://github.com/noemiRE"
+        },
+        {
+          "nick": "Joselyn",
+          "url": "https://www.linkedin.com/in/joselyn-luisa-atahulluco-bellota-43676a17a/"
+        }
+      ],
+      "tags": [
+        "Node.js",
+        "MongoDB",
+        "Heroku"
+      ]
+    },
+    {
       "title": "Money Manager Api 💰",
       "date": "March 2021",
       "thumb": "money-manager.png",
@@ -32,7 +60,11 @@
       "github": "https://github.com/j4iro/money-manager",
       "postman": "https://documenter.getpostman.com/view/7899354/TzRX7QXZ",
       "description": "Api created using express.js for an application that will management your personal finances 🤑 (In development)",
-      "tags": ["Express JS", "Node.js", "MongoDB"]
+      "tags": [
+        "Express JS",
+        "Node.js",
+        "MongoDB"
+      ]
     },
     {
       "title": "Paqui 🤖",
@@ -40,8 +72,12 @@
       "thumb": "project_paqui.png",
       "main_link": "https://pagaloaqui.cl/santander",
       "website": "https://pagaloaqui.cl/santander",
-      "description": "Paqui is an chatbot 🤖 created in the company Onbotgo, she is trained for answer the FAQ of users, show list and more.",
-      "tags": ["Dialogflow", "Node.js", "MongoDB"]
+      "description": "Paqui is a chatbot 🤖 created in the company Onbotgo, she is trained for answer the FAQ of users, show list and more.",
+      "tags": [
+        "Dialogflow",
+        "Node.js",
+        "MongoDB"
+      ]
     },
     {
       "title": "Platzi Exchange 📊",
@@ -51,7 +87,11 @@
       "website": "https://cripto-j4iro.netlify.app/",
       "github": "https://github.com/j4iro/platzi-exchange",
       "description": "This project is a result of the vuejs's course at Platzi, this app use the coincap's api 🕸️ for showing the data 📊",
-      "tags": ["Vue", "Axios", "Tailwindcss"]
+      "tags": [
+        "Vue",
+        "Axios",
+        "Tailwindcss"
+      ]
     }
   ]
 }
