@@ -3,7 +3,7 @@
   "homepage": "https://github.com/j4iro",
   "bio": "Software Developer",
   "_resume": "Desarrollador backend 👨‍💻 en constanste aprendizaje, me gusta resolver problemas con código y compartir conocimientos 🧠",
-  "resume": "Software Developer with 2 years of experience 👨‍💻, constantly learning, i like to solve problems with code and share knowledge 🧠",
+  "resume": "Software Developer with +3 years of experience 👨‍💻, constantly learning, i like to solve problems with code and share knowledge 🧠",
   "avatar": "https://i.imgur.com/tse467Z.jpg",
   "email": "jlachirap.8@gmail.com",
   "phone": "",
@@ -13,7 +13,9 @@
     "github": "https://github.com/j4iro"
   },
   "skills": [
-    "Node.js 👨‍💻",
+    "NodeJs 👨‍💻",
+    "TypeScript 🔵",
+    "NestJs 🔴",
     "MongoDB 🍃",
     "Mysql 🐬",
     "Express.js 👨‍💻",
@@ -25,12 +27,12 @@
   ],
   "learning": [
     "English 🇬🇧",
-    "VueJs 🟢",
-    "TypeScript 🔵"
+    "AWS ☁️",
+    "Docker 🛥️"
   ],
   "will_learn": [
-    "NestJs 🔴",
-    "Docker 🛥️",
+    "React ⚛️",
+    "Ai 🤖",
     "and more ...."
   ],
   "projects": [
